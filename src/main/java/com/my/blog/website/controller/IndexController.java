@@ -39,6 +39,7 @@ import java.util.List;
  * 首页
  * Created by Administrator on 2017/3/8 008.
  */
+//hello world!
 @Controller
 public class IndexController extends BaseController {
     private static final Logger LOGGER = LoggerFactory.getLogger(IndexController.class);
